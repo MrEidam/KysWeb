@@ -79,3 +79,8 @@ h1{
     box-shadow: 0 10px 30px #ddd;
     transition: 0.5s;
 }
+.přik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
