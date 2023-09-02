@@ -87,4 +87,5 @@ h1{
     margin-top: 2rem;
     padding: 2rem 0 2rem 0;
     background: #444;
+    transition: 0.5s;
 }
