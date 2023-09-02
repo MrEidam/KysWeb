@@ -16,8 +16,6 @@ h1{
     margin-top: 1rem;
     font-weight: 300;
     font-size: 40px;
-    -webkit-transition: all 0.4s ease 0s;
-    -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
 }
 .Head h1 {
@@ -80,7 +78,7 @@ h1{
     box-shadow: 0 10px 30px #ddd;
     transition: 0.5s;
 }
-.přik{
+.prikazani{
     display: flex;
     justify-content: center;
     align-items: center;
